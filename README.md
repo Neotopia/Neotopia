@@ -13,7 +13,7 @@ Currently expanding into **data analytics engineering** skills — SQL, BigQuery
 
 ## 📂 Featured projects
 
-- [**ga4-bigquery-neobank-analytics**](https://github.com/Neotopia/ga4-bigquery-neobank-analytics)
+- [**ga4-bigquery-ecommerce-analytics**](https://github.com/Neotopia/ga4-bigquery-ecommerce-analytics)
   — SQL analysis of GA4 event data: acquisition, funnel, retention, churn · BigQuery
 - [**bigquery-sql-fintech**](https://github.com/Neotopia/bigquery-sql-fintech)
   — SQL queries on fintech data: window functions, transaction analysis · BigQuery
